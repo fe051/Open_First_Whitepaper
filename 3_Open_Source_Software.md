@@ -6,7 +6,7 @@ Free software and open source software is software where the source code is dist
 
 Free software is the original name put forward by Richard Stallman and defended by the Free Software Foundation (FSF).  Free software is defined by [four essential freedoms](https://www.gnu.org/philosophy/free-sw.en.html).  The freedom to run the program, study how it works, modify it and redistribute it.  Access to the source code is a precondition for these freedoms and not the end goal itself.
 
-Open Source Software is the name used by the Open Source Initiative. They're the authority on certifying whether a software licence is an open source licence.  Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by 10 criteria.
+Open Source Software is the name used by the Open Source Initiative. They're the authority on certifying whether a software license is an open source license.  Open source software is defined in the [Open Source Definition](https://opensource.org/docs/osd) by 10 criteria.
 
 The two are almost equivalent but represent two different visions and neither want to be included in the other.  You will find authors using FOSS for "Free Open Source Software" or even FLOSS for "Free/Libre Open Source Software".  For the purposes of this whitepaper we opted to use "open source" to talk about free (in the sense of freedom) software and open source software.
 
@@ -16,7 +16,7 @@ Free Software goes back to the beginnings of computer science. Many of the succe
 ### Free Beer?
 Free in English can mean something is available at no cost, or that it gives you certain freedoms. Much is available online comparing free speech, free beer & even free kittens as metaphors for free software. To avoid confusion some have expressed it as [Free/Libre and Open Source Software (FLOSS)](http://www.flora.ca/floss.shtml).
 
-### Intellectual property and Licences
+### Intellectual property and Licenses
 #### Copyright
 
 ### Benefits for users

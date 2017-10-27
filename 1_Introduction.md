@@ -11,7 +11,7 @@ This whitepaper is being co-developed by members of the GC open source community
 We want to learn from Canadians, our partners, academics and technical experts to help us incorporate an open lens as we update GC policies, governance, funding and processes.
 
 ### GC Digital Principles (DRAFT)
-Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recentrly drafted digital principles that will guide how we work, interact with Canadians, and do business. 
+Inspired by of the United Kingdom Government, the Government of Ontario and other jurisdictions, the GC has recently drafted digital principles that will guide how we work, interact with Canadians, and do business. 
 
 1. #### Understand users and their needs
 Start with user needs and build for them, and with them. Conduct ongoing testing with users. Do the hard work so that they don’t have to.
@@ -47,7 +47,7 @@ Build in inclusiveness, official languages, and accessibility by design.
 Manage data in line with standards. Implement analytical tools and use the data you collect.
 
 12. #### Be accountable to Canadians
-Define user-centred performance metrics. Publish real time data.
+Define user-centered performance metrics. Publish real time data.
 
 13. #### Develop open and innovative partnerships
 Recognize that an organization can’t have all the best ideas. Create partnerships and collaborate.

@@ -1,4 +1,4 @@
-Open Government Licence - Canada
+Open Government License - Canada
 
 Copyright (c) 2017 Government of Canada - Gouvernement du Canada
 

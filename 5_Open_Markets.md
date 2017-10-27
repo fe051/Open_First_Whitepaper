@@ -23,7 +23,7 @@ In 2013 the GC made a decision to leverage the open source platform, CKAN, as th
 
 Through a membership agreement with the CKAN Association, Canada provides in-kind contributions through the development of projects and acting as the Chair of the CKAN Association. Within this role, we have identified several challenges that have the potential to impact the sustainability of the community. These include:
 * Due to a lack of central resources, it’s difficult for users to have a common technical roadmap to follow. This can lead to in-effective and redundant development. More development is needed to maintain and update core CKAN vs. focus on extension developments. 
-* Not all members are contributing back. This could be due to lack of awareness, as many usres are government jurisdictions who are new to the world of open government, aren’t familiar with the principles and code of conduct related to open source. 
+* Not all members are contributing back. This could be due to lack of awareness, as many users are government jurisdictions who are new to the world of open government, aren’t familiar with the principles and code of conduct related to open source. 
 * Community could grow more if there was greater awareness. This would require more communications and outreach. 
 
 ##### Mitigation efforts
